@@ -1,0 +1,2 @@
+# SentimentAnalyzer
+During my masters together with a group I had do perform sentiment analysis over twitter data regarding the 2016 election. For this we have used several python libraries focused on data science. The scripts added to the repository are made to import, preprocess and analyze the data. The main idea was to apply naive bayes to perform sentiment analysis and link the results to other information that would be available in the dataset. For that we have retrieved both the textual information and analyzed the geographical location from which tweets were sent. 
